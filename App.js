@@ -13,6 +13,8 @@ import {
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import GAMES, { APP_TITLE, APP_SUBTITLE } from './games-config';
+import MapScreen from './MapScreen';
+import mapSpots from './data/map-spots.json';
 
 const FAV_KEY = '@gameguide/favorites';
 
@@ -59,7 +61,7 @@ function App() {
                 key={g.id}
                 activeOpacity={0.85}
                 style={[styles.gameCard, { backgroundColor: c.card, borderColor: c.border }]}
-                onPress={() => { setGameId(g.id); setScreen('game'); }}
+                onPress={() => { if (g.id === 'map') { setScreen('map'); } else { setGameId(g.id); setScreen('game'); } }}
               >
                 <View style={[styles.gameIconWrap, { backgroundColor: g.deep }]}>
                   <Text style={styles.gameIcon}>{g.icon}</Text>
@@ -78,6 +80,11 @@ function App() {
         </ScrollView>
       </SafeAreaView>
     );
+  }
+
+  if (screen === 'map') {
+    const mapGame = GAMES.find((x) => x.id === 'map');
+    return <MapScreen spots={mapSpots} game={mapGame} onBack={() => setScreen('home')} />;
   }
 
   if (screen === 'detail' && selected) {
