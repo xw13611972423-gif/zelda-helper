@@ -1,0 +1,17 @@
+[
+  {"id":1,"game":"amiibo","category":"amiibo图鉴","title":"林克（旷野之息版）","summary":"刷出旷野之息主题的武器与防具。","content":"对应塞尔达传说：旷野之息的林克 amiibo。\n\n王国之泪中可刷出：\n- 旅人之剑、旅人之盾\n- 海利亚套装（头/身/腿，随机）\n- 各类箭矢、料理材料\n\n每天可刷一次，掉落随机，可反复刷取。","tags":["amiibo","林克"]},
+  {"id":2,"game":"amiibo","category":"amiibo图鉴","title":"林克（王国之泪版）","summary":"王国之泪主题林克，刷出佐纳乌相关道具。","content":"对应塞尔达传说：王国之泪的林克 amiibo。\n\n可刷出：\n- 佐纳乌之剑、佐纳乌之盾\n- 左纳乌装置材料\n- 王国之泪主题布料\n\n适合刷佐纳乌装备和装置。","tags":["amiibo","林克"]},
+  {"id":3,"game":"amiibo","category":"amiibo图鉴","title":"塞尔达（旷野之息版）","summary":"刷出海利亚女神的祝福与布料。","content":"对应旷野之息的塞尔达公主 amiibo。\n\n可刷出：\n- 各类宝石、星星碎片\n- 塞尔达主题布料\n- 料理材料\n\n适合刷稀有材料（星星碎片、宝石）。","tags":["amiibo","塞尔达"]},
+  {"id":4,"game":"amiibo","category":"amiibo图鉴","title":"塞尔达（王国之泪版）","summary":"王国之泪主题塞尔达。","content":"对应王国之泪的塞尔达 amiibo。\n\n可刷出：\n- 王国之泪主题布料\n- 左纳乌材料\n- 稀有宝石\n\n与旷野之息版类似，偏向佐纳乌相关掉落。","tags":["amiibo","塞尔达"]},
+  {"id":5,"game":"amiibo","category":"amiibo图鉴","title":"加农多夫","summary":"刷出魔王系装备与稀有材料。","content":"对应加农多夫（魔王）的 amiibo。\n\n可刷出：\n- 魔王之剑、魔王之盾\n- 魔王套装（头/身/腿）\n- 吉波得材料、怪物材料\n\n适合刷魔王系装备和怪物材料。","tags":["amiibo","加农"]},
+  {"id":6,"game":"amiibo","category":"amiibo图鉴","title":"米法（卓拉英杰）","summary":"刷出卓拉族装备。","content":"对应卓拉族英杰米法的 amiibo。\n\n可刷出：\n- 光鳞之枪（米法武器）\n- 佐拉套装部件\n- 卓拉族材料、鱼类\n\n适合刷卓拉族武器和游泳装备。","tags":["amiibo","英杰","米法"]},
+  {"id":7,"game":"amiibo","category":"amiibo图鉴","title":"达尔克尔（鼓隆英杰）","summary":"刷出鼓隆族装备。","content":"对应鼓隆族英杰达尔克尔的 amiibo。\n\n可刷出：\n- 碎岩之剑（达尔克尔武器）\n- 耐火装备部件\n- 鼓隆族材料、矿石\n\n适合刷耐火装备和矿石材料。","tags":["amiibo","英杰","达尔克尔"]},
+  {"id":8,"game":"amiibo","category":"amiibo图鉴","title":"力巴尔（利特英杰）","summary":"刷出利特族装备与弓。","content":"对应利特族英杰力巴尔的 amiibo。\n\n可刷出：\n- 大鹫之弓（力巴尔武器）\n- 利特族装备部件\n- 各类箭矢、禽类材料\n\n适合刷弓和箭矢。","tags":["amiibo","英杰","力巴尔"]},
+  {"id":9,"game":"amiibo","category":"amiibo图鉴","title":"乌尔波扎（格鲁德英杰）","summary":"刷出格鲁德族装备。","content":"对应格鲁德族英杰乌尔波扎的 amiibo。\n\n可刷出：\n- 七宝匕首、七宝盾\n- 格鲁德族装备部件\n- 雷属性材料、宝石\n\n适合刷格鲁德武器和雷属性材料。","tags":["amiibo","英杰","乌尔波扎"]},
+  {"id":10,"game":"amiibo","category":"amiibo图鉴","title":"时之笛林克","summary":"刷出时之笛主题装备。","content":"对应时之笛（塞尔达传说：时之笛）的林克 amiibo。\n\n可刷出：\n- 时之勇者套装\n- 科奇里之剑\n- 各类材料\n\n适合刷怀旧主题装备。","tags":["amiibo","林克","时之笛"]},
+  {"id":11,"game":"amiibo","category":"amiibo图鉴","title":"风之杖林克","summary":"刷出风之杖主题装备。","content":"对应风之杖（塞尔达传说：风之杖）的林克 amiibo。\n\n可刷出：\n- 风之勇者套装\n- 各类材料、鱼\n\n适合刷航海主题装备。","tags":["amiibo","林克","风之杖"]},
+  {"id":12,"game":"amiibo","category":"amiibo图鉴","title":"狼林克","summary":"可召唤狼伙伴。","content":"对应黄昏公主的狼林克 amiibo。\n\n旷野之息中：\n- 可召唤狼林克作为战斗伙伴\n- 狼林克血量继承自黄昏公主存档\n\n王国之泪中掉落：\n- 各类肉、怪物材料\n- 狼主题布料","tags":["amiibo","狼林克"]},
+  {"id":13,"game":"amiibo","category":"amiibo图鉴","title":"古代林克（守护者）","summary":"刷出古代科技装备。","content":"对应旷野之息守护者主题的林克 amiibo。\n\n可刷出：\n- 古代兵装·剑\n- 古代兵装·盾\n- 古代零件、古代核心\n\n适合刷古代科技装备和零件。","tags":["amiibo","林克","古代"]},
+  {"id":14,"game":"amiibo","category":"amiibo图鉴","title":"塞尔达与洛夫特飞鸟","summary":"刷出天空之剑主题装备。","content":"对应天空之剑的塞尔达与洛夫特飞鸟 amiibo。\n\n可刷出：\n- 天空之剑主题布料\n- 各类宝石、材料\n\n适合刷稀有宝石。","tags":["amiibo","塞尔达","天空之剑"]},
+  {"id":15,"game":"amiibo","category":"amiibo图鉴","title":"amiibo 使用须知","summary":"amiibo 刷取机制说明。","content":"使用 amiibo 的通用规则：\n\n1. 在游戏中打开 amiibo 功能（菜单 → amiibo）\n2. 将 amiibo 手办贴在右摇杆/感应区\n3. 每个 amiibo 每天可刷一次\n4. 掉落随机，可反复刷取\n\n技巧：\n- 想刷特定装备，可连续多天刷同一 amiibo\n- 稀有掉落（如英杰武器）概率较低，需耐心\n- 改系统日期可提前刷新（时间旅行）","tags":["amiibo","机制"]}
+]
